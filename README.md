@@ -10,13 +10,13 @@ The perfect app for the lazy trainers.
   - Submit a pull request on the `Development` branch :D
 
 ## Contributors
-  - @maxpower89
-  - @helimark
-  - @Grover-c13
+  - [maxpower89](https://github.com/maxpower89/)
+  - [helimark](https://github.com/helimark)
+  - [Grover-c13](https://github.com/Grover-c13/)
 
 
 ##Special thanks
-A special thanks to @helimark for helping with the design of the application.  Also a thanks to @Grover-c13 for making the pokemon go API available
+A special thanks to @helimark for helping with the design of the application, and the ideas for features.  Also a thanks to @Grover-c13 for making the pokemon go API available
 
 
 ##License
