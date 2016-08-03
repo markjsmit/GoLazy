@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">GoLazy</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Logout">Logout</string>
+
+    <!--pokemon info-->
+    <string name="info_cp">CP</string>
+
+    <!--pokemon auth-->
+    <string name="google_login">Google Login</string>
+    <string name="pokemon_trainer_club_login">PTC Login</string>
+    <string name="transfer">Transfer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

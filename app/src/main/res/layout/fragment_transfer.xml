@@ -1,0 +1,41 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.noobsunited.goLazy.activities.Fragments.TransferFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:id="@+id/transferLayout"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/transfer"
+            android:id="@+id/transferButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true" />
+
+        <GridView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/pokemonGrid"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/transferButton"
+            android:numColumns="3"
+            android:choiceMode="none" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sort"
+            android:id="@+id/sortButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+    <include layout="@layout/loading_overlay"/>
+</FrameLayout>
