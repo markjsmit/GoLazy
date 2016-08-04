@@ -24,3 +24,6 @@ This Project is licensed as GNU
 
 ##Used projects:
 This project is based on this api: [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java)
+
+##Legal
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Niantic, The Pokémon Company, Nintendo or any of its affiliates or subsidiaries. This is an independent and unofficial application for educational use ONLY. Use at your own risk.
