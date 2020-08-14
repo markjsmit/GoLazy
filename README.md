@@ -12,7 +12,7 @@ The perfect app for the lazy trainers.
 ## Contributors
   - [maxpower89](https://github.com/maxpower89/)
   - [helimark](https://github.com/helimark)
-  - [Grover-c13](https://github.com/Grover-c13/)
+
 
 
 ##Special thanks
